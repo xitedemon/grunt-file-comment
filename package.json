@@ -1,0 +1,23 @@
+{
+  "name": "grunt-file-comment",
+  "version": "1.0.0",
+  "description": "Add Comments To Files.",
+  "main": "tasks/file-comment.js",
+  "name": "grunt-file-comment",
+  "scripts": {},
+  "engines": {
+    "node": ">= 8.9.4",
+    "npm": ">= 5.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xitedemon/grunt-file-comment.git"
+  },
+  "keywords": [],
+  "author": "xitedemon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xitedemon/grunt-file-comment/issues"
+  },
+  "homepage": "https://github.com/xitedemon/grunt-file-comment#readme"
+}
